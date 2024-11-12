@@ -1,0 +1,31 @@
+# Python
+.__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.py
+# Notebooks
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project-specific
+/data
+/dataFES
+/DataANFA
+/DataMV
+/plots_year
+/plots_months
+models/
+*.log
+*.ipynb
+*.pdf
+/docs
+.env
+*.local
+config.local.json
