@@ -1,0 +1,12 @@
+# Required libraries for data collection and processing
+requests==2.32.3
+beautifulsoup4==4.12.3
+streamlit
+pandas
+seaborn
+matplotlib
+Pillow
+
+
+
+
